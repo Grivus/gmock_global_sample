@@ -1,0 +1,6 @@
+[submodule "gmock_global"]
+	path = gmock_global
+	url = https://github.com/Grivus/gmock_global.git
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
